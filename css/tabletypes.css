@@ -1,0 +1,36 @@
+.practical {
+    background-image: linear-gradient(45deg, #85FFBD 0%, #FFFB7D 100%);
+
+}
+
+.theoretical {
+    background: linear-gradient(135deg, #FFEFBA, #FFFFFF)
+}
+
+.office_hours {
+    background: linear-gradient(135deg, #f12711, #f5af19);
+}
+
+.academic {
+    background: linear-gradient(135deg, #DA4453, #89216B)
+}
+
+.online {
+    background: linear-gradient(135deg, #bcee8e, #8eeea0);
+}
+
+.another {
+    background: linear-gradient(135deg, #c08eee, #ee8edc);
+}
+
+table i {
+    display: block;
+    padding-left: 1rem ;
+    text-align: center;
+    display: table-cell;
+}
+
+table .text{
+    display: table-cell;
+}
+
